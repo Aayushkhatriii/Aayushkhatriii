@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Khatri!;+I'm+a+computer+science+student+from+Nepal;" />
+</h1>
 
 <!--
 **Aayushkhatriii/Aayushkhatriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
